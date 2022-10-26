@@ -26,7 +26,7 @@ Atualmente curso graduação em Sistemas de Informação, me esforço em pequeno
 <!--
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=psousaj">
-  <img align="center" src="https://komarev.com/ghpvc/?username=psousaj" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=psousaj width="200px" />
 </a> 
 </p>
 
