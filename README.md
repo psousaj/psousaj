@@ -11,17 +11,22 @@ Sou apenas um rapaz latino americano com muita vontade de aprender, garra e dedi
 Atualmente curso graduação em Sistemas de Informação, me esforço em pequenos projetos que contribuam com meu aprendizado e experiência, em busca da primeira vaga como dev.
 
 
+Exemplo   | Valor do exemplo
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark" />
 </a> 
-</p>
-
-<p align="center">
+</p> | <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" />
 </a> 
 </p>
+
+
+
+
+
+
 
 <!--
 <p align="center">
