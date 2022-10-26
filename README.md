@@ -10,28 +10,33 @@
 Sou apenas um rapaz latino americano com muita vontade de aprender, garra e dedicação ao que gosto e me empenho.
 Atualmente curso graduação em Sistemas de Informação, me esforço em pequenos projetos que contribuam com meu aprendizado e experiência, em busca da primeira vaga como dev.
 
+<style>
+  
+ </style>
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark" />
+</a> 
+</p>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" />
 </a> 
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=julianazanelatto)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianazanelatto&show_icons=true&theme=dark)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=psousaj">
+  <img align="center" src="https://komarev.com/ghpvc/?username=psousaj" />
 </a> 
+</p>
 
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianazanelatto&show_icons=true&theme=dark)
+
+
 -->
 
