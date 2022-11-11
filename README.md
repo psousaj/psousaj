@@ -8,7 +8,7 @@
 
 ### Sobre mim
 Sou apenas um rapaz latino americano com muita vontade de aprender, garra e dedicação ao que gosto e me empenho.
-Atualmente curso graduação em Sistemas de Informação, me esforço em pequenos projetos que contribuam com meu aprendizado e experiência, em busca da primeira vaga como dev.
+Atualmente curso graduação em Sistemas de Informação, me empennho em pequenos projetos que contribuam com meu aprendizado e experiência, em busca da primeira vaga como dev.
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
