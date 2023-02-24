@@ -11,13 +11,13 @@ Sou apenas um rapaz latino americano com muita vontade de aprender, garra e dedi
 Atualmente curso graduação em Sistemas de Informação, me empennho em pequenos projetos que contribuam com meu aprendizado e experiência, em busca da primeira vaga como dev.
 
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psousaj&show_icons=true&layout=compact&theme=dark" />
 </a> 
 </p>
 
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" width="50%" height="auto" />
 </a> 
 </p>
