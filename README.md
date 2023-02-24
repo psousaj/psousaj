@@ -12,7 +12,7 @@ Atualmente curso graduação em Sistemas de Informação, me empennho em pequeno
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianazanelatto&show_icons=true&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psousaj&show_icons=true&layout=compact&theme=dark" />
 </a> 
 </p>
 
