@@ -12,13 +12,13 @@ Atualmente curso graduação em Sistemas de Informação, me empennho em pequeno
 
 <p>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psousaj&show_icons=true&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=stone_api" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psousaj&show_icons=true&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=stone_api&langs_count=7" width="35%" height="auto"/>
 </a> 
 </p>
 
 <p>
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" width="50%" height="auto" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" width="35%" height="auto" />
 </a> 
 </p>
 
