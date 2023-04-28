@@ -19,7 +19,7 @@ Atualmente curso graduação em Sistemas de Informação, me empennho em pequeno
 
 <p>
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" width="50%" height="200px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" width="35%" height="200px" />
 </a> 
 </p>
 
