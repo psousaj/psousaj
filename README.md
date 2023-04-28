@@ -10,18 +10,19 @@
 Sou apenas um rapaz latino americano com muita vontade de aprender, garra e dedicação ao que gosto e me empenho.
 Atualmente curso graduação em Sistemas de Informação, me empennho em pequenos projetos que contribuam com meu aprendizado e experiência, em busca da primeira vaga como dev.
 
+<div style="display: flex; justify-content: space-evenly;">
 <p>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psousaj&show_icons=true&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=stone_api&langs_count=7" width="35%" height="auto"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psousaj&show_icons=true&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&exclude_repo=stone_api&langs_count=7" width="50%" height="auto"/>
 </a> 
 </p>
 
 <p>
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" width="35%" height="auto" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=psousaj&show_icons=true&theme=dark" width="50%" height="165px" />
 </a> 
 </p>
-
+</div>
 
 
 
